@@ -1,0 +1,34 @@
+.header {
+width: 1,443px ;
+height: 125px ;
+display: flex;
+background: var(--Dark-Grey, #262626);
+gap: 787px; 
+justify-content: center;
+}
+
+.header img {
+    width: 168.45px;
+    height: 40px;
+    padding: 42.5px;
+}
+
+.botones{
+    padding: 42.5px 35px;
+    display: flex;
+    gap: 25px;
+    height: 54px;
+}
+
+.inicio {
+    border-radius: 10px;
+    width: 180px;
+    border: 2px;
+    color: #2271D1;
+}
+
+.nuevo {
+    border-radius: 10px;
+    width: 180px;
+    border: 2px;
+}
